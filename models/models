@@ -1,0 +1,1 @@
+Migrated to llama.cpp since it supports Alpaca models and alpaca.cpp is no longer maintained. Redownload all models from here（https://huggingface.co/Pi3141）.
